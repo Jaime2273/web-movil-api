@@ -33,3 +33,13 @@ map.on('zoomend', () => {
   }
 });
 Este código asegura que al hacer zoom hacia atrás se eliminen los lugares cercanos y se muestren las capitales, y viceversa al hacer zoom hacia adelante.
+
+Algo que se podria mejorar es:
+Guardar ubicación preferida:
+Permitir que el usuario guarde su ubicación preferida o agregar un marcador especial para su ciudad favorita para poder consultarla más rápido.
+Agregar una interfaz de búsqueda:
+Buscar por ciudad o coordenadas: Permitir que los usuarios busquen lugares específicos para obtener información meteorológica en lugar de depender únicamente de la ubicación actual o de la vista del mapa.
+Puedes agregar un cuadro de búsqueda donde el usuario pueda escribir el nombre de una ciudad y mostrar el clima de esa ciudad.
+Mostrar más información del clima: Puedes agregar más detalles sobre el clima, como la humedad, la velocidad del viento, la sensación térmica y el pronóstico del clima para los próximos días.
+
+La nota que me pondrias es de 8 ya que he conseguido hacer practicamente todo lo que tenia pensado
